@@ -12,6 +12,8 @@ Welcome to my GitHub profile! I am a dedicated software developer with a primary
   - [AuthHub Flutter](#authhub-flutter)
   - [App School](#app-school)
   - [Hotel Restful API](#hotel-restful-api)
+  - [Charm School App](#charm-school-app)
+  - [Express.js Chatzone API](#expressjs-chatzone-api)
 - [Kontak / Contact](#kontak--contact)
 - [Statistik GitHub / GitHub Stats](#statistik-github--github-stats)
 
@@ -59,11 +61,23 @@ My name is Resky. I have experience in developing applications using various lan
 
 [Hotel Restful API](https://github.com/Resky89/hotel-restful-api) is a RESTful API for managing hotel data, including reservations, rooms, and customers. This API is built entirely using JavaScript.
 
+### Charm School App
+
+[Charm School App](https://github.com/Resky89/charm-school-app) adalah aplikasi portal sekolah yang dibangun menggunakan Flutter untuk frontend dan RESTful API berbasis PHP Native untuk backend. Aplikasi ini memungkinkan murid untuk melihat informasi sekolah, agenda, dan galeri foto kegiatan sekolah.
+
+[Charm School App](https://github.com/Resky89/charm-school-app) is a school portal application built using Flutter for the frontend and a PHP Native RESTful API for the backend. This app allows students to view school information, agendas, and photo galleries of school activities.
+
+### Express.js Chatzone API
+
+[Express.js Chatzone API](https://github.com/Resky89/express.js-chatzone-api) adalah backend yang kuat dan skalabel untuk aplikasi chat menggunakan Express.js dan MySQL. API ini mendukung berbagai fitur seperti otentikasi pengguna, riwayat pesan, dan chat grup.
+
+[Express.js Chatzone API](https://github.com/Resky89/express.js-chatzone-api) is a robust and scalable backend for a chat application using Express.js and MySQL. This API supports various features such as user authentication, message history, and group chats.
+
 ## 📞 Kontak / Contact
 
 Jika Anda ingin terhubung dengan saya atau memiliki pertanyaan tentang proyek saya, Anda dapat menghubungi saya melalui:
 
-- Email: [resky@example.com](mailto:resky@example.com)
+- Email: [reskyprabowo89@gmail.com](mailto:reskyprabowo89@gmail.com)
 - GitHub: [Resky89](https://github.com/Resky89)
 
 If you want to connect with me or have questions about my projects, you can contact me through:
