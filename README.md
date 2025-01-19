@@ -20,15 +20,11 @@ Welcome to my GitHub profile! I am a dedicated software developer with a primary
 
 ## 📝 About Me
 
-My name is Resky. I have experience in developing applications using various languages and frameworks. I am currently studying at Universitas Binaniaga Indonesia. Here are some technologies I work with:
+✨ I’m currently an undergraduate **Informatics engineering** student at **Universitas Binaniaga Indonesia**, learning the art of making computers do my bidding (except when they don’t).
 
-- **JavaScript** 🌐
-- **Dart** 🎭
-- **Flutter** 🎮
-- **PHP** 🐘
-- **Ionic Framework** 📱
-- **Go** 🐹
-- **Hack** 🔨
+🌱 I’m currently diving deep into **web and mobile development**, still figuring out which is more frustrating: coding or choosing the perfect stack.
+
+📧 How to reach me: [reskyprabowo89@gmail.com](mailto:reskyprabowo89@gmail.com)
 
 ## 💼 My Projects
 
@@ -64,15 +60,13 @@ My name is Resky. I have experience in developing applications using various lan
 
 [Portal Akademik Sederhana](https://github.com/Resky89/portal-academic) is an academic portal application built using Laravel. The application provides access based on user roles: Admin, Lecturer, and Student. The database for the application can be found in the `database.sql` file.
 
-## 📞 Contact
+## 📞 Connect with me
 
-If you want to connect with me or have questions about my projects, you can contact me through:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/resky) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/resky89)
 
-- Email: [reskyprabowo89@gmail.com](mailto:reskyprabowo89@gmail.com)
-- GitHub: [Resky89](https://github.com/Resky89)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/resky)
-- Instagram: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/resky89)
-- Sosmed: [![Contact](https://img.shields.io/badge/Sosmed-Universitas%20Binaniaga%20Indonesia-0078D4?style=flat&logo=google&logoColor=white)](https://binaniaga.ac.id)
+## 🛠️ Tech Stack:
+
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 📊 GitHub Stats
 
