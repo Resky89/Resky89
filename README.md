@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I am a dedicated software developer with a primary
   - [Charm School App](#charm-school-app)
   - [Express.js Chatzone API](#expressjs-chatzone-api)
   - [Form CRUD Mahasiswa - Golang](#form-crud-mahasiswa---golang)
+  - [Portal Akademik Sederhana](#portal-akademik-sederhana)
 - [Kontak / Contact](#kontak--contact)
 - [Statistik GitHub / GitHub Stats](#statistik-github--github-stats)
 
@@ -83,6 +84,12 @@ My name is Resky. I have experience in developing applications using various lan
 [Form CRUD Mahasiswa - Golang](https://github.com/Resky89/form-crud-mahasiswa-GOLANG) adalah aplikasi yang dirancang untuk mengelola data mahasiswa dengan menyediakan fitur CRUD (Create, Read, Update, Delete). Aplikasi ini dibangun menggunakan bahasa pemrograman Go dan Hack.
 
 [Form CRUD Mahasiswa - Golang](https://github.com/Resky89/form-crud-mahasiswa-GOLANG) is an application designed to manage student data by providing CRUD (Create, Read, Update, Delete) features. This application is built using Go and Hack programming languages.
+
+### Portal Akademik Sederhana
+
+[Portal Akademik Sederhana](https://github.com/Resky89/portal-academic) adalah aplikasi portal akademik yang dibangun menggunakan Laravel. Aplikasi ini memberikan akses berdasarkan peran pengguna, yaitu Admin, Dosen, dan Mahasiswa. Basis data untuk aplikasi ini dapat diambil dari file `database.sql`.
+
+[Portal Akademik Sederhana](https://github.com/Resky89/portal-academic) is an academic portal application built using Laravel. The application provides access based on user roles: Admin, Lecturer, and Student. The database for the application can be found in the `database.sql` file.
 
 ## 📞 Kontak / Contact
 
