@@ -1,4 +1,4 @@
-# Resky's GitHub Profile
+# Hi it's Resky's GitHub Profile
 
 Selamat datang di profil GitHub saya! Saya adalah seorang pengembang perangkat lunak yang berdedikasi dengan fokus utama pada pengembangan aplikasi web dan mobile. Saya menikmati bekerja dengan berbagai teknologi dan selalu mencari tantangan baru untuk meningkatkan keterampilan saya.
 
@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I am a dedicated software developer with a primary
   - [Hotel Restful API](#hotel-restful-api)
   - [Charm School App](#charm-school-app)
   - [Express.js Chatzone API](#expressjs-chatzone-api)
+  - [Form CRUD Mahasiswa - Golang](#form-crud-mahasiswa---golang)
 - [Kontak / Contact](#kontak--contact)
 - [Statistik GitHub / GitHub Stats](#statistik-github--github-stats)
 
@@ -26,6 +27,8 @@ Nama saya Resky. Saya memiliki pengalaman dalam pengembangan aplikasi menggunaka
 - **Flutter**
 - **PHP**
 - **Ionic Framework**
+- **Go**
+- **Hack**
 
 My name is Resky. I have experience in developing applications using various languages and frameworks. Here are some technologies I work with:
 
@@ -34,6 +37,8 @@ My name is Resky. I have experience in developing applications using various lan
 - **Flutter**
 - **PHP**
 - **Ionic Framework**
+- **Go**
+- **Hack**
 
 ## 💼 Proyek Saya / My Projects
 
@@ -73,6 +78,12 @@ My name is Resky. I have experience in developing applications using various lan
 
 [Express.js Chatzone API](https://github.com/Resky89/express.js-chatzone-api) is a robust and scalable backend for a chat application using Express.js and MySQL. This API supports various features such as user authentication, message history, and group chats.
 
+### Form CRUD Mahasiswa - Golang
+
+[Form CRUD Mahasiswa - Golang](https://github.com/Resky89/form-crud-mahasiswa-GOLANG) adalah aplikasi yang dirancang untuk mengelola data mahasiswa dengan menyediakan fitur CRUD (Create, Read, Update, Delete). Aplikasi ini dibangun menggunakan bahasa pemrograman Go dan Hack.
+
+[Form CRUD Mahasiswa - Golang](https://github.com/Resky89/form-crud-mahasiswa-GOLANG) is an application designed to manage student data by providing CRUD (Create, Read, Update, Delete) features. This application is built using Go and Hack programming languages.
+
 ## 📞 Kontak / Contact
 
 Jika Anda ingin terhubung dengan saya atau memiliki pertanyaan tentang proyek saya, Anda dapat menghubungi saya melalui:
@@ -82,7 +93,7 @@ Jika Anda ingin terhubung dengan saya atau memiliki pertanyaan tentang proyek sa
 
 If you want to connect with me or have questions about my projects, you can contact me through:
 
-- Email: [resky@example.com](mailto:resky@example.com)
+- Email: [reskyprabowo89@gmail.com](mailto:reskyprabowo89@gmail.com)
 - GitHub: [Resky89](https://github.com/Resky89)
 
 ## 📊 Statistik GitHub / GitHub Stats
