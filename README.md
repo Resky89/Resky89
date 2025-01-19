@@ -62,7 +62,8 @@ Welcome to my GitHub profile! I am a dedicated software developer with a primary
 
 ## 📞 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/resky) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/resky89)
+<a href="https://linkedin.com/in/resky" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"></a>
+<a href="https://instagram.com/resky89" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram"></a>
 
 ## 🛠️ Tech Stack:
 
