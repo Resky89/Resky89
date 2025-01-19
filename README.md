@@ -16,14 +16,15 @@ Welcome to my GitHub profile! I am a dedicated software developer with a primary
   - [Portal Akademik Sederhana](#portal-akademik-sederhana)
 - [Contact](#contact)
 - [GitHub Stats](#github-stats)
+- [Languages Overview](#languages-overview)
 
-## 📖 About Me
+## 📝 About Me
 
-My name is Resky. I have experience in developing applications using various languages and frameworks. Here are some technologies I work with:
+My name is Resky. I have experience in developing applications using various languages and frameworks. I am currently studying at Universitas Binaniaga Indonesia. Here are some technologies I work with:
 
 - **JavaScript** 🌐
-- **Dart** 🎯
-- **Flutter** 🖼️
+- **Dart** 🎭
+- **Flutter** 🎮
 - **PHP** 🐘
 - **Ionic Framework** 📱
 - **Go** 🐹
@@ -69,11 +70,19 @@ If you want to connect with me or have questions about my projects, you can cont
 
 - Email: [reskyprabowo89@gmail.com](mailto:reskyprabowo89@gmail.com)
 - GitHub: [Resky89](https://github.com/Resky89)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/resky)
+- Instagram: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/resky89)
+- Sosmed: [![Contact](https://img.shields.io/badge/Sosmed-Universitas%20Binaniaga%20Indonesia-0078D4?style=flat&logo=google&logoColor=white)](https://binaniaga.ac.id)
 
 ## 📊 GitHub Stats
 
 ![Resky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Resky89&show_icons=true&theme=radical)
 
+## 🎭 Languages Overview
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Resky89&layout=compact&theme=radical)
+
 ---
 
 Thank you for visiting my GitHub profile! Feel free to check out my projects and provide feedback.
+
