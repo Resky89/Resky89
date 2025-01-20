@@ -65,7 +65,7 @@ I'm an undergraduate **Informatics Engineering** student at **Universitas Binani
 - **[Hotel Restful API](https://github.com/Resky89/hotel-restful-api)** - Complete hotel management API system
 
 ### 💬 Communication Platform
-- **[Express.js Chatzone API](https://github.com/Resky89/express.js-chatzone-api)** - Scalable chat application backend
+- **[Express.js Chatzone API](https://github.com/Resky89/)** - Scalable chat application backend
 
 ## 📊 GitHub Stats
 
