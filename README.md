@@ -65,7 +65,13 @@ I'm an undergraduate **Informatics Engineering** student at **Universitas Binani
 - **[Hotel Restful API](https://github.com/Resky89/hotel-restful-api)** - Complete hotel management API system
 
 ### 💬 Communication Platform
-- **[Express.js Chatzone API](https://github.com/Resky89/)** - Scalable chat application backend
+- **[Express.js Chatzone API](https://github.com/Resky89/ChatZone-api)** - Scalable chat application backend
+
+### ⚽️ Sports Management
+- **[Soccer School Management](https://github.com/Resky89/soccer-school-management)** - Comprehensive soccer school management platform
+
+### 🌐 Web Development
+- **[Form CRUD Mahasiswa (Golang)](https://github.com/Resky89/form-crud-mahasiswa-GOLANG)** - A CRUD application for managing students, built with Golang
 
 ## 📊 GitHub Stats
 
