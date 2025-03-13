@@ -118,7 +118,7 @@ I'm an undergraduate **Informatics Engineering** student at **Universitas Binani
   
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Resky89&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Resky89&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Resky89&theme=blueberry&hide_border=false" alt="GitHub Streak" width="48%" />
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Resky89&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
@@ -127,6 +127,8 @@ I'm an undergraduate **Informatics Engineering** student at **Universitas Binani
 
 
 ## 📫 Connect With Me
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Resky89)
 
