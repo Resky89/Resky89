@@ -2,33 +2,50 @@
   
 # 👋 Hello, I'm Resky
 
-### Full Stack Developer | Mobile App Developer | Tech Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6272A4&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer;Mobile+App+Developer;Tech+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-resky-prabowo-sutejo-237146285" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/resky89" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:reskyprabowo89@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Resky89&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Resky89&color=blueviolet&style=for-the-badge)
 
 <!-- GitHub Trophies -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Resky89&theme=tokyonight&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 ## 🚀 About Me
 
 I'm an undergraduate **Informatics Engineering** student at **Universitas Binaniaga Indonesia**, passionate about creating innovative solutions through code. Currently focused on web and mobile development.
 
+<details>
+  <summary>⚡ More about me</summary>
+  <ul>
+    <li>🔭 I'm currently working on building robust authentication systems</li>
+    <li>🌱 I'm constantly learning new technologies and frameworks</li>
+    <li>👯 I'm looking to collaborate on open source projects</li>
+    <li>💬 Ask me about Flutter, Laravel, or Node.js</li>
+    <li>⚡ Fun fact: I can code for hours with just coffee and good music</li>
+  </ul>
+</details>
+
 ## 💻 Tech Stack
 
+<div align="center">
+  
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -53,36 +70,80 @@ I'm an undergraduate **Informatics Engineering** student at **Universitas Binani
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
+</div>
+
 ## 🌟 Featured Projects
 
-### 🔐 AuthHub Ecosystem
-- **[AuthHub API](https://github.com/Resky89/authhub-api)** - A robust JWT authentication API built with JavaScript
-- **[AuthHub Flutter](https://github.com/Resky89/authhub-flutter)** - Secure mobile authentication interface using Flutter
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🔐 AuthHub Ecosystem</h3>
+        <p align="center">
+          <a href="https://github.com/Resky89/authhub-api" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Resky89&repo=authhub-api&theme=tokyonight" alt="AuthHub API" />
+          </a>
+          <a href="https://github.com/Resky89/authhub-flutter" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Resky89&repo=authhub-flutter&theme=tokyonight" alt="AuthHub Flutter" />
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">📚 Education Platforms</h3>
+        <p align="center">
+          <a href="https://github.com/Resky89/app-school" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Resky89&repo=app-school&theme=tokyonight" alt="App School" />
+          </a>
+          <a href="https://github.com/Resky89/charm-school-app" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Resky89&repo=charm-school-app&theme=tokyonight" alt="Charm School App" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 📚 Education Platforms
-- **[App School](https://github.com/Resky89/app-school)** - Comprehensive school management platform built with Ionic
-- **[Charm School App](https://github.com/Resky89/charm-school-app)** - School portal with Flutter frontend and PHP backend
+### More Projects
 - **[Portal Akademik](https://github.com/Resky89/portal-academic)** - Academic portal with role-based access using Laravel
-
-### 🏨 Hotel Management
 - **[Hotel Restful API](https://github.com/Resky89/hotel-restful-api)** - Complete hotel management API system
-
-### 💬 Communication Platform
 - **[Express.js Chatzone API](https://github.com/Resky89/ChatZone-api)** - Scalable chat application backend
-
-### ⚽️ Sports Management
 - **[Soccer School Management](https://github.com/Resky89/soccer-school-management)** - Comprehensive soccer school management platform
-
-### 🌐 Web Development
 - **[Form CRUD Mahasiswa (Golang)](https://github.com/Resky89/form-crud-mahasiswa-GOLANG)** - A CRUD application for managing students, built with Golang
 
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Resky89&bg_color=1a1b27&color=628fda&line=38bcad&point=6362be&area=true&hide_border=true" alt="Activity Graph" width="100%">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Resky89&show_icons=true&theme=tokyonight)](https://github.com/Resky89)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Resky89&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Resky89&theme=tokyonight" alt="GitHub Streak" width="48%" />
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Resky89&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
+
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
   
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Resky89&layout=compact&theme=tokyonight)](https://github.com/Resky89)
+![MongoDB](https://img.shields.io/badge/MongoDB-Certified-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Expert-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/resky89)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@resky89)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12345678/resky89)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Resky89)
 
 </div>
 
@@ -91,6 +152,8 @@ I'm an undergraduate **Informatics Engineering** student at **Universitas Binani
 <div align="center">
   
 ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 
 **[👆 Back to Top](#-hello-im-resky)**
 
