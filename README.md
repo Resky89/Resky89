@@ -18,6 +18,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Resky89&color=blue&style=flat-square)
 
+<!-- GitHub Trophies -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Resky89&theme=tokyonight&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ## 🚀 About Me
@@ -80,6 +83,21 @@ I'm an undergraduate **Informatics Engineering** student at **Universitas Binani
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Resky89&show_icons=true&theme=tokyonight)](https://github.com/Resky89)
   
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Resky89&layout=compact&theme=tokyonight)](https://github.com/Resky89)
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Resky89&theme=tokyonight)](https://git.io/streak-stats)
+
+<!-- GitHub Activity Graph -->
+[![Resky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Resky89&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+<!-- Snake Animation -->
+![Snake animation](https://github.com/Resky89/Resky89/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
