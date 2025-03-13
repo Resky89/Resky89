@@ -125,24 +125,9 @@ I'm an undergraduate **Informatics Engineering** student at **Universitas Binani
 
 </div>
 
-## 🏆 Achievements
-
-<div align="center">
-  
-![MongoDB](https://img.shields.io/badge/MongoDB-Certified-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Expert-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-</div>
 
 ## 📫 Connect With Me
 
-<div align="center">
-
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/resky89)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@resky89)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12345678/resky89)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Resky89)
 
 </div>
