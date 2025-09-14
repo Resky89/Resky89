@@ -95,11 +95,11 @@ I'm an undergraduate **Informatics Engineering** student at **Universitas Binani
   </table>
 </div>
 
-## 🎖️ Certifications
+## 🏅 Certifications
 
 <div align="center">
-  <a href="https://www.credly.com/badges/e5a3d841-c0e5-4db8-95fd-5465f91c1f96" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/e5a3d841-c0e5-4db8-95fd-5465f91c1f96/badge.png" width="150" alt="Credly Badge"/>
+  <a href="https://www.credly.com/badges/e5a3d841-c0e5-4db8-95fd-5465f91c1f96/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0c6c82d8-3c54-4ed0-a135-3164465b8b27/image.png" alt="Certification Badge" width="150"/>
   </a>
 </div>
 
