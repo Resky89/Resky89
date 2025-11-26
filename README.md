@@ -133,7 +133,7 @@ I'm an undergraduate **Informatics Engineering** student at **Universitas Binani
   <a href="https://www.linkedin.com/in/muhammad-resky-prabowo-sutejo-237146285" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/resky89" target="_blank">
+  <a href="https://instagram.com/itsrsky_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:reskyprabowo89@gmail.com">
